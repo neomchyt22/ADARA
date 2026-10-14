@@ -1,0 +1,3 @@
+# Rebuild status
+
+Initial source scaffold drafted. It has not been built or run because this workspace has no JDK, Gradle, Android SDK, or emulator. A GitHub Actions workflow is included to assemble a debug APK once the source is placed in a repository. Important: no bundled hotword/speech models yet; Android platform offline voices must be installed and supported by the target device. Red Hat Mono asset is not yet packaged.
