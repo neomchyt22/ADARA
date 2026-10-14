@@ -1,7 +1,1 @@
-plugins { id("com.android.application") }
-android {
-    namespace = "com.adara.assistant"
-    compileSdk = 35
-    defaultConfig { applicationId = "com.adara.assistant"; minSdk = 26; targetSdk = 35; versionCode = 1; versionName = "0.1.0" }
-    compileOptions { sourceCompatibility = JavaVersion.VERSION_17; targetCompatibility = JavaVersion.VERSION_17 }
-}
+plugins { id("com.android.application") version "8.9.1" apply false }

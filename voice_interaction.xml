@@ -1,1 +1,0 @@
-<voice-interaction-service xmlns:android="http://schemas.android.com/apk/res/android" android:sessionService="com.adara.assistant.AdaraVoiceInteractionSessionService" android:supportsAssist="true" android:supportsLaunchFromKeyguard="false" />
